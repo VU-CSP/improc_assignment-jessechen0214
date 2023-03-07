@@ -12,7 +12,7 @@ Q1) What is the maximum intensity value in the [Differential interference contra
 A1) 255  
 
 Q2) What are the dimensions of the [Phase contrast](image_files/PhaseContrast.tif) file?  
-A2) 41,226, 8-bit  
+A2) 314,226, 8-bit  
 
 Q3) Which image has greater dynamic range of pixel intensities? Phase or DiffInt?  
 A3) Phase contrast  
